@@ -1,7 +1,7 @@
 - 👋 Heyo, I’m @awkto
 - 👀 I’m interested in all things DevOps, Automation, Linux
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on DNS projects. 
+- 🌱 I’m currently building wrapper APIs for LLMs
+- 💞️ I love open source 
 - 📫 How to reach me : awkto@outlook.com
 
 <!---
